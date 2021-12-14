@@ -1,28 +1,30 @@
 {
   "files": {
     "main.css": "/static/css/main.9b3ac610.chunk.css",
-    "main.js": "/static/js/main.ba8cd163.chunk.js",
-    "main.js.map": "/static/js/main.ba8cd163.chunk.js.map",
+    "main.js": "/static/js/main.ef2c34dd.chunk.js",
+    "main.js.map": "/static/js/main.ef2c34dd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b8b9f84b.js",
     "runtime-main.js.map": "/static/js/runtime-main.b8b9f84b.js.map",
-    "static/js/2.b845edf2.chunk.js": "/static/js/2.b845edf2.chunk.js",
-    "static/js/2.b845edf2.chunk.js.map": "/static/js/2.b845edf2.chunk.js.map",
+    "static/js/2.fd5c2a2b.chunk.js": "/static/js/2.fd5c2a2b.chunk.js",
+    "static/js/2.fd5c2a2b.chunk.js.map": "/static/js/2.fd5c2a2b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.89d23a0910dbd52cabe0df03c895a019.js": "/precache-manifest.89d23a0910dbd52cabe0df03c895a019.js",
+    "precache-manifest.0c267a35146836b1c5b3800b89634460.js": "/precache-manifest.0c267a35146836b1c5b3800b89634460.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.9b3ac610.chunk.css.map": "/static/css/main.9b3ac610.chunk.css.map",
-    "static/js/2.b845edf2.chunk.js.LICENSE.txt": "/static/js/2.b845edf2.chunk.js.LICENSE.txt",
-    "static/media/cloud-architecture.png": "/static/media/cloud-architecture.53ae2b19.png",
+    "static/js/2.fd5c2a2b.chunk.js.LICENSE.txt": "/static/js/2.fd5c2a2b.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/static/media/illustration-section-02.63d0555d.svg",
-    "static/media/dashboard.png": "/static/media/dashboard.954efe72.png",
+    "static/media/dashboard.png": "/static/media/dashboard.a1bb796a.png",
     "static/media/feature-tile-icon-01.svg": "/static/media/feature-tile-icon-01.0f9928d7.svg",
     "static/media/feature-tile-icon-02.svg": "/static/media/feature-tile-icon-02.bd39f304.svg",
-    "static/media/feature-tile-icon-03.svg": "/static/media/feature-tile-icon-03.66f37ba5.svg"
+    "static/media/feature-tile-icon-03.svg": "/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "/static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/feature-tile-icon-05.svg": "/static/media/feature-tile-icon-05.fa9ba00b.svg",
+    "static/media/feature-tile-icon-06.svg": "/static/media/feature-tile-icon-06.6a177696.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b8b9f84b.js",
-    "static/js/2.b845edf2.chunk.js",
+    "static/js/2.fd5c2a2b.chunk.js",
     "static/css/main.9b3ac610.chunk.css",
-    "static/js/main.ba8cd163.chunk.js"
+    "static/js/main.ef2c34dd.chunk.js"
   ]
 }
